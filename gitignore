@@ -1,0 +1,8 @@
+•	Ignore all .log files:    *.log
+•	Ignore a specific file:     secret_file.txt
+•	Ignore all files in a temp/ directory:        temp/
+•	Ignore all files except important_file.txt inside a folder:
+folder/*
+!folder/important_file.txt
+•	Ignore files with a specific extension:    *.bak
+
